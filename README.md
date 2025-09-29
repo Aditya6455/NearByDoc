@@ -38,7 +38,7 @@ This full stack appointment booking system can be used by a doctor or a hospital
 <br /><hr /><br />
 
 ## Author :black_nib:
-  [Github](https://github.com/Aditya6455) | [Linkedin](https://www.linkedin.com/in/aditya-kumar-sah-656633263/)._
+  [Github](https://github.com/Aditya6455) | [Linkedin](https://www.linkedin.com/in/aditya-kumar-sah-656633263/).
 
 <br /><hr /><br />
 
