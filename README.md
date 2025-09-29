@@ -42,8 +42,4 @@ This full stack appointment booking system can be used by a doctor or a hospital
 
 <br /><hr /><br />
 
-## License 📝
 
-This project is distributed under [MIT license](https://github.com/Adtiya6455/prescripto/blob/main/LICENSE). Enjoy! 🎉
-
-<br /><br />
